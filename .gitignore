@@ -1,3 +1,4 @@
 cert/
 nginx.conf
 .DS_Store
+nginx.sh.conf
